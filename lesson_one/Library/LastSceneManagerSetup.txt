@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/unity_facesync-master/unity_facesync-master/FaceSync/Demo/Scenes/FaceSync.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

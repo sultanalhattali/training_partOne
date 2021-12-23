@@ -1,0 +1,5 @@
+face sync randonm script which is able to 
+- run the element randomly and aslo you can increase
+the size of it but how we can modifing thoses file ?
+
+first lood what is inside synbc random play 
